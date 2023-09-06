@@ -6,6 +6,6 @@ h1 {
     color: blue
   }
   
-  .bg image {
+  .bg-image {
     filter: blur(8px)
   }
