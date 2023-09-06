@@ -4,17 +4,26 @@ html {
 }
 
 h1 {
-  color: red;
+  color: black;
   font-size: 40px;
+  
 }
   
 h2 {
-  color: blue;
+  color: darkblue;
   font-size: 30px;
 }
 
 p, a, li{
   font-size: 20px;
-  color: white;
+  color: black;
 }
-  
+
+#subtitles{
+  font-size: 15px;
+}
+
+.link{
+  color: blue;
+}
+
